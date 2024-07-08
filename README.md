@@ -4,7 +4,7 @@ pip install requests
 python 3.7
 
 Commands:
-git clone https://github.com/pwn0sec/PwnXSS
+git clone https://github.com/NashChat/Xss-Scanner
 chmod 755 -R PwnXSS
 cd PwnXSS
 python3 pwnxss.py --help 
